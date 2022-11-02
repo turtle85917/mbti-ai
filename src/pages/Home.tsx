@@ -103,7 +103,7 @@ const Home = () => {
       </div>
       <footer>
         <span>분석을 위해 업로드한 사진을 저장하지 않습니다.</span>
-        <span><a href="https://github.com/turtle85917/mbti-ai" target="_blank">오픈소스</a>를 사용하셔도 돼요.</span>
+        <span><a href="https://github.com/turtle85917/mbti-ai" target="_blank">오픈소스</a>는 사용하셔도 돼요.</span>
       </footer>
     </>
   )
